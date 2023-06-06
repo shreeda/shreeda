@@ -4,14 +4,17 @@ url = "https://thenetworkstate.com/"
 title = "The Network State"
 
 [[governance]]
-url = "joodaloop.com"
-title = "Governnemnt haha"
+url = "https://www.yakcollective.org/projects/yak-online-governance-primer.html"
+title = "The Yak Online Governance Primer"
 
+[[governance]]
+url = "https://vitalik.ca/"
+title = "Vitalik's thoughts on governance, protocols, etc."
 
 [[design]]
 url = "https://en.wikipedia.org/wiki/A_Pattern_Language"
 title = "A Pattern Langauge"
 
 [[design]]
-url = "joodaloop.com"
-title = "guns n roses"
+url = "Not So Big House"
+title = "https://susanka.com/not-so-big-house/"
