@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Governance on Shreeda</title>
+    <link>/tags/governance/</link>
+    <description>Recent content in Governance on Shreeda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/governance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Designing governments in 2023</title>
+      <link>/notes/desiderata-copy/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/notes/desiderata-copy/</guid>
+      <description>Go placidly amid the noise and the haste, and remember what peace there may be in silence. As far as possible, without surrender, be on good terms with all persons.
+Speak your truth quietly and clearly; and listen to others, even to the dull and the ignorant; they too have their story.
+Avoid loud and aggressive persons; they are vexatious to the spirit. If you compare yourself with others, you may become vain or bitter, for always there will be greater and lesser persons than yourself.</description>
+    </item>
+    
+    <item>
+      <title>Notes on Farcaster</title>
+      <link>/notes/howl/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/notes/howl/</guid>
+      <description>I saw the best minds of my generation destroyed by madness. </description>
+    </item>
+    
+  </channel>
+</rss>
