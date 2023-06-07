@@ -174,8 +174,8 @@
 
         <p> Click to scroll through some of my favorite pieces below. </p>
 
-        <figure> <img id=pottery src="/photos/pottery/square-book.jpg" alt="Example of my pottery">
-          <figcaption id="pottery-caption"> Caption about the piece above, will change to match the picture as the user clicks. </figcaption>
+        <figure> <img id=pottery src="/photos/pottery/pottery.jpg" alt="Example of my pottery">
+          <figcaption id="pottery-caption"> A small cup I made. </figcaption>
         </figure>
 
         <br><br>
@@ -337,7 +337,7 @@
     $("pottery").addEventListener("click", next)
 
     function next(){
-      let path = "/public/photos/pottery/"
+      let path = "/photos/pottery"
       $("pottery").src = path + pictureArray[current%pictureArray.length]
       $("pottery-caption").innerText = captionArray[current%captionArray.length] 
       current += 1
