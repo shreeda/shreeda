@@ -337,7 +337,7 @@
     $("pottery").addEventListener("click", next)
 
     function next(){
-      let path = "/photos/pottery/"
+      let path = "/public/photos/pottery/"
       $("pottery").src = path + pictureArray[current%pictureArray.length]
       $("pottery-caption").innerText = captionArray[current%captionArray.length] 
       current += 1
