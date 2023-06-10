@@ -334,6 +334,11 @@
 
     console.log(captionArray, pictureArray)
 
+    for(let ele of pictureArray){
+      let tempImg = new Image()
+      tempImg.src = "/photos/pottery/" + ele
+    }
+
     let current = 0
 
     $("pottery").addEventListener("click", next)
