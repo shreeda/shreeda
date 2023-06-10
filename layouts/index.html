@@ -174,7 +174,7 @@
 
         <p> Click to scroll through some of my favorite pieces below. </p>
 
-        <figure> <img id=pottery src="/photos/pottery/pottery.jpg" alt="Example of my pottery">
+        <figure> <img id=pottery src="/photos/pottery/pottery1.jpg" alt="Example of my pottery">
           <figcaption id="pottery-caption"> A small cup I made. </figcaption>
         </figure>
 
@@ -332,13 +332,16 @@
       captionArray.push( {{ .caption }} )
     {{ end }}
 
+    console.log(captionArray, pictureArray)
+
     let current = 0
 
     $("pottery").addEventListener("click", next)
 
     function next(){
-      let path = "/photos/pottery"
+      let path = "/photos/pottery/"
       $("pottery").src = path + pictureArray[current%pictureArray.length]
+      $("pottery").alt = captionArray[current%captionArray.length] 
       $("pottery-caption").innerText = captionArray[current%captionArray.length] 
       current += 1
     }
