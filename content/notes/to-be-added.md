@@ -1,6 +1,6 @@
 ---
-title: 'To be added in the future'
+title: 'Coming soon'
 date: 2023-02-10
 description: "My notes are currently a work in progress."
-tags: ["design", "economics", "governance", "protocols", "work"]
+tags: ["design"]
 ---
