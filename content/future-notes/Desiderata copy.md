@@ -2,7 +2,7 @@
 title: 'Designing governments in 2023'
 date: 2023-02-10
 description: "is this even a good idea?"
-tags: ["governance"]
+tags: []
 ---
 
 Go placidly amid the noise and the haste, and remember what peace there may be in silence. As far as possible, without surrender, be on good terms with all persons.
