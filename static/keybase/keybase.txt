@@ -1,0 +1,65 @@
+﻿==================================================================
+https://keybase.io/shreeda
+--------------------------------------------------------------------
+
+
+I hereby claim:
+
+
+  * I am an admin of https://shreedasegan.com
+  * I am shreeda (https://keybase.io/shreeda) on keybase.
+  * I have a public key ASBBAEp5vxuskqonjEoXDrWDDo-9sZwSdOJaSILuCKHjygo
+
+
+To do so, I am signing this object:
+
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012016b6e25233a11c94366c7b2d7dcf6d37b0f7d5e8b58f8b56b2f75d81f6b8ab9c0a",
+      "host": "keybase.io",
+      "kid": "012041004a79bf1bac92aa278c4a170eb5830e8fbdb19c1274e25a4882ee08a1e3ca0a",
+      "uid": "8683293ba3285b3c89d1cec4c21f1c19",
+      "username": "shreeda"
+    },
+    "merkle_root": {
+      "ctime": 1696306411,
+      "hash": "f9f31abd6abf06ca88330a2c5d41673731e22c0b06b11430107a66c92b20db0955edaf25957eeb70f93f1fa017469a65e660eed763f45363924b842ccb3520f8",
+      "hash_meta": "7188466e1c0ea62f3b4f22c7d701daa475921e9e2fbaae07c748bfc2664dacb5",
+      "seqno": 24989381
+    },
+    "service": {
+      "entropy": "Y7vv9B48rjpUO2gWiZy7ICnM",
+      "hostname": "shreedasegan.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.2.3"
+  },
+  "ctime": 1696306448,
+  "expire_in": 504576000,
+  "prev": "c0de77924b7daf9770a8c8f4b5fe4d9db5d7456bc6d02ae5b83b8e9c17778c80",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+
+which yields the signature:
+
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgQQBKeb8brJKqJ4xKFw61gw6PvbGcEnTiWkiC7gih48oKp3BheWxvYWTESpcCFMQgwN53kkt9r5dwqMj0tf5NnbXXRWvG0CrluDuOnBd3jIDEIB59PDkkOmXj+0vsp8diPoHzE2zjZ8KQubqEo3bt3RGhAgHCo3NpZ8RAm5/PhLvhex915PYThw5BUiZBBvO2TCUAwQLw+UCZ2GmQC4ppLEuBY4EZraLWd2qsDfZvORi0uxb9ueCAIeXeAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOig97KyfWYtO+bS43mf/uJx3oYVCPLV15lF6fhMUJAPo3RhZ80CAqd2ZXJzaW9uAQ==
+
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+
+View my publicly-auditable identity here: https://keybase.io/shreeda
+
+
+==================================================================
