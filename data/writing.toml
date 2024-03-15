@@ -1,4 +1,21 @@
 [[writing]]
+
+url = https://meridian.mercury.com/dwarkesh-patel
+name = "The future belongs to those who prepare like Dwarkesh Patel"
+
+[[writing]]
+url = "https://meridian.mercury.com/byrne-hobart"
+name = "Byrne Hobart, the unlikely oracle"
+
+[[writing]]
+url = "https://meridian.mercury.com/emmett-shear-part-one"
+name = "Emmett Shear on AI's culture wars"
+
+[[writing]]
+url = "https://meridian.mercury.com/sheel-mohnot"
+name = "Inheriting ambition, Sheel Mohnot"
+
+[[writing]]
 url = "https://meridian.mercury.com/tim-beiko"
 name = "Tim Beiko on Ethereum's moonshot"
 
@@ -7,17 +24,5 @@ url = "https://meridian.mercury.com/how-jonathan-hillis-cabin-became-a-dao"
 name = "How Jonathan Hillis' cabin became a DAO"
 
 [[writing]]
-url = "https://meridian.mercury.com/dao-incorporation"
-name = "Misadventures in DAO incorporation"
-
-[[writing]]
-url = "https://meridian.mercury.com/chase-chapman"
-name = "Chase Chapman: inhabiting the internet"
-
-[[writing]]
-url = "https://meridian.mercury.com/brian-flynn"
-name = "Brian Flynn, wayfinding in web3"
-
-[[writing]]
-url = "https://meridian.mercury.com/tuomas-artman"
-name = "Linear’s Tuomas Artman, designing surprising tools"
+url = "https://meridian.mercury.com/startups-through-the-hands-of-pottersn"
+name = "Startups through the hands of potters"
