@@ -2,7 +2,7 @@
 title: 'Cognitive Science of Religion'
 date: 2025-01-29
 description: "Auditing Dr. Cristine Legare's Cognitive Science of Religion course at UT Austin"
-tags: ["Studies"]
+tags: ["studies"]
 ---
 
 # Lecture 3: Religious vs Secular Rituals
