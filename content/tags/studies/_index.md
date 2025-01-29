@@ -1,3 +1,3 @@
 ---
-title: "studies"
+title: "Independent Studies"
 ---
