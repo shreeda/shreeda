@@ -7,7 +7,7 @@ tags: ["Studies"]
 
 # Lecture 3: Religious vs Secular Rituals
 
-## Understanding Rituals
+## Understanding Rituals 
 - Rituals involve social stipulation and specific sequences of actions that are often causally opaque - meaning it's unclear how the actions produce the desired outcome
 - Similar to people following a recipe very closely without understanding the underlying principles
 - Contrasts with non-ritual activities like brushing teeth, where we have autonomy about variation with no moral consequences
